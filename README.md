@@ -11,9 +11,12 @@ https://Roqmoq.github.io/gatsby-blog へのデプロイ,
 
 - [ ] ブログのタグ化
 - [ ] デザイン
+- [ ] DNS設定
+- [ ] SEO設定
 
 ## 技術全般やりたいこと
 
 - [ ] プロフィール画面充実
 - [ ] Cursor
 - [ ] SAA
+- [ ] neovim

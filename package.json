@@ -10,6 +10,7 @@
   ],
   "scripts": {
     "develop": "gatsby develop",
+    "develop:error": "gatsby develop --verbose",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
