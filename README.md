@@ -1,6 +1,6 @@
 ## README
 
-https://Roqmoq.github.io/gatsby-blogへのデプロイ,
+https://Roqmoq.github.io/gatsby-blog へのデプロイ,
 
     ```shell
     # create a new Gatsby site using the minimal TypeScript starter
